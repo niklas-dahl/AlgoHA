@@ -2,17 +2,17 @@ package ha1;
 
 /**
  * 
- * Filter für Zahlen >9
+ * Filter fÃ¼r Zahlen >9
  *
  */
 public class TwoDigitsFilter implements Filter {
 
 	/**
-	 * Überprüft ob die Zahl >9 ist
+	 * ÃœberprÃ¼ft ob die Zahl >9 ist
 	 */
 	@Override
 	public boolean evaluate(int x) {
-		return x > 9;
+		return (x > 9 && x < 100) || (x < -9 && x > -100);
 	}
 
 }
