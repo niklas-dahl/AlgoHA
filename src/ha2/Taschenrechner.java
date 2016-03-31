@@ -11,15 +11,14 @@ import java.util.Stack;
 public class Taschenrechner {
 
     /**
-     * Hier werden die Variablen gespeichert ...
-     */
-    private static HashMap<String, Double> mapVars = new HashMap<>();
-
-    /**
      * ... und hier werden die Operatoren gespeichert!
      * Ganz praktisch, wenn man noch was anderes definieren will!
      */
     private static final HashMap<String, MathOp> mathOps;
+    /**
+     * Hier werden die Variablen gespeichert ...
+     */
+    private static HashMap<String, Double> mapVars = new HashMap<>();
 
     static {
         mathOps = new HashMap<>();
@@ -31,6 +30,7 @@ public class Taschenrechner {
         // Hier mal ein paar Extras!
         mathOps.put("pow", Math::pow);
         mathOps.put("root", (a, b) -> Math.pow(b, 1. / a));
+        mathOps.put("E", (a, b) -> a * Math.pow(10, b));
     }
 
     /**
@@ -81,6 +81,7 @@ public class Taschenrechner {
 
     /**
      * analyze gibt eine "Antwort" auf einen eingegebenen Ausdruck
+     *
      * @param expr Ausdruck
      * @return Antwort
      */
@@ -113,6 +114,7 @@ public class Taschenrechner {
 
     /**
      * So ziemlich die Testmethode vom AB
+     *
      * @param args Die braucht kein Schwein ...
      */
 
@@ -136,8 +138,9 @@ public class Taschenrechner {
     /**
      * Prüft mit regex, ob der String eine Zahl ist
      * (weil ich das nicht mit Parse und try/catch machen wollte)
+     *
      * @param str String ...
-     * @return  ... ist eine Zahl?
+     * @return ... ist eine Zahl?
      */
 
     public static boolean isNumeric(String str) {
@@ -148,6 +151,7 @@ public class Taschenrechner {
      * Das funktionale Interface für Operatoren
      */
 
+    @FunctionalInterface
     private interface MathOp {
         double process(double one, double two);
     }
