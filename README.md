@@ -19,6 +19,6 @@ __Ich hab auch mal die HA2 hochgeladen.__ Hoffe das ist so ok, wenn ihr Zeit & L
 
 ### Gruppe 5
 
-1. Marius Bronner
-2. Dimitri Begnis
+1. Dimitri Begnis
+2. Marius Bronner
 3. Niklas Dahl
