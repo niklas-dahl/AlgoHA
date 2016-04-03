@@ -20,7 +20,7 @@ __Ich hab auch mal die HA2 hochgeladen.__ Hoffe das ist so ok, wenn ihr Zeit & L
 
 ### Score
 
-   Der Gewinner bekommt am Ende des Semesters ein Bier !
+   Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 
 | Nr. | Wer ist dran? | Abgaben | Punkte
 |----:|:-------------:|:-------:|:----:
