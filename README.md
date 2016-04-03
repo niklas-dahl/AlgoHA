@@ -14,8 +14,17 @@ __Ich hab auch mal die HA2 hochgeladen.__ Hoffe das ist so ok, wenn ihr Zeit & L
 
 | Nr. | Wer ist dran? | Bei ILIAS hochgeladen? | Punkte
 |----:|:-------------:|:----------------------:|:----:
-| 1   | Niklas        | :heavy_check_mark:     | ????
+| 1   | Niklas        | :heavy_check_mark:     | nur 6 !
 | 2   | Marius        | :heavy_check_mark:     | ????
+
+
+### Score
+
+| Nr. | Wer ist dran? | Abgaben | Punkte
+|----:|:-------------:|:-------:|:----:
+| 1   | Niklas        | 1       | 6
+| 2   | Marius        | 0       | 0
+| 3   | Dimi          | 0       | 0
 
 ### Gruppe 5
 
