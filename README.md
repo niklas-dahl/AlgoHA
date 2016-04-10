@@ -8,14 +8,12 @@ _Wie viele Belgier braucht man um eine Glühbirne reinzuschrauben?_ -- So o.k.? 
 
     </unwichtigeInfos>
 
-__Ich hab auch mal die HA2 hochgeladen.__ Hoffe das ist so ok, wenn ihr Zeit & Lust habt, könnt ihrs euch ja mal ansehen ;)
-
 ### Abgaben
 
 | Nr. | Wer ist dran? | Bei ILIAS hochgeladen? | Punkte
 |----:|:-------------:|:----------------------:|:----:
 | 1   | Niklas        | :heavy_check_mark:     | nur 6 !
-| 2   | Marius        | :heavy_check_mark:     | ????
+| 2   | Marius        | :heavy_check_mark:     | 7
 
 
 ### Score
@@ -25,7 +23,7 @@ __Ich hab auch mal die HA2 hochgeladen.__ Hoffe das ist so ok, wenn ihr Zeit & L
 | Nr. | Wer ist dran? | Abgaben | Punkte
 |----:|:-------------:|:-------:|:----:
 | 1   | Niklas        | 1       | 6
-| 2   | Marius        | 0       | 0
+| 2   | Marius        | 1       | 7
 | 3   | Dimi          | 0       | 0
 
 ### Gruppe 5
