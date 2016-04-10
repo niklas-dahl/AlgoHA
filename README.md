@@ -14,6 +14,7 @@ _Wie viele Belgier braucht man um eine Glühbirne reinzuschrauben?_ -- So o.k.? 
 |----:|:-------------:|:----------------------:|:----:
 | 1   | Niklas        | :heavy_check_mark:     | nur 6 !
 | 2   | Marius        | :heavy_check_mark:     | 7
+| 3   | Dimi          | :heavy_check_mark:     | ?
 
 
 ### Score
