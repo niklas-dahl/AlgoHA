@@ -2,7 +2,7 @@
 
 ### Score
 
-   Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
+Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 
 | Nr. | Wer ist dran? | Abgaben | Punkte
 |----:|:-------------:|:-------:|:----:
@@ -24,12 +24,3 @@
 1. Dimitri Begnis
 2. Marius Bronner
 3. Niklas Dahl
-
-
-    <unwichtigeInfos>
-
-Strähnchen wollte dass ich ein paar Witze in die Repo schreibe... Also ... \*räusper\*
-
-_Wie viele Belgier braucht man um eine Glühbirne reinzuschrauben?_ -- So o.k.? :smirk:
-
-    </unwichtigeInfos>
