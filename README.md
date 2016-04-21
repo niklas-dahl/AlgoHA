@@ -1,5 +1,8 @@
 # Algorithmen Hausaufgaben
 
+HA5 ist noch nicht fertig, ich hab das nur hochgeladen,
+damit ich an nem anderen Computer dran weitermachen kann ;)
+
 ### Score
 
 Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
@@ -8,7 +11,7 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 |----:|:-------------:|:-------:|:----:
 | 1   | Niklas        | 1       | 6
 | 2   | Marius        | 1       | 7
-| 3   | Dimi          | 0       | 0
+| 3   | Dimi          | 1       | 6
 
 ### Abgaben
 
@@ -16,7 +19,7 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 |----:|:-------------:|:----------------------:|:----:
 | 1   | Niklas        | :heavy_check_mark:     | nur 6!
 | 2   | Marius        | :heavy_check_mark:     | 7
-| 3   | Dimi          | :heavy_check_mark:     | ?
+| 3   | Dimi          | :heavy_check_mark:     | 6
 | 4   | Niklas        | :heavy_check_mark:     | ?
 
 ### Gruppe 5
