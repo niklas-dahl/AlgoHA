@@ -1,8 +1,5 @@
 # Algorithmen Hausaufgaben
 
-HA5 ist noch nicht fertig, ich hab das nur hochgeladen,
-damit ich an nem anderen Computer dran weitermachen kann ;)
-
 ### Score
 
 Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
@@ -17,10 +14,11 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 
 | Nr. | Wer ist dran? | Bei ILIAS hochgeladen? | Punkte
 |----:|:-------------:|:----------------------:|:----:
-| 1   | Niklas        | :heavy_check_mark:     | nur 6!
+| 1   | Niklas        | :heavy_check_mark:     | 6
 | 2   | Marius        | :heavy_check_mark:     | 7
 | 3   | Dimi          | :heavy_check_mark:     | 6
 | 4   | Niklas        | :heavy_check_mark:     | ?
+| 5   | Marius        | :heavy_check_mark:     | ?
 
 ### Gruppe 5
 
