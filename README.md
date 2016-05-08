@@ -6,7 +6,7 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 
 | Nr. | Wer ist dran? | Abgaben | Punkte
 |----:|:-------------:|:-------:|:----:
-| 1   | Niklas        | 3       | 12
+| 1   | Niklas        | 2       | 12
 | 2   | Marius        | 2       | 13
 | 3   | Dimi          | 2       | 13
 
