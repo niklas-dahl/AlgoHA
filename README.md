@@ -6,8 +6,8 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 
 | Nr. | Wer ist dran? | Abgaben | Punkte
 |----:|:-------------:|:-------:|:----:
-| 1   | Niklas        | 2       | 12
-| 2   | Marius        | 2       | 13
+| 1   | Niklas        | 3       | 18
+| 2   | Marius        | 3       | 20
 | 3   | Dimi          | 2       | 13
 
 ### Abgaben
@@ -20,8 +20,8 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 | 4   | Niklas        | :heavy_check_mark:     | 6
 | 5   | Marius        | :heavy_check_mark:     | 6
 | 6   | Dimi          | :heavy_check_mark:     | 7
-| 7   | Niklas        | :heavy_check_mark:     | ?
-| 8   | Marius        | :heavy_check_mark:     | ?
+| 7   | Niklas        | :heavy_check_mark:     | 6
+| 8   | Marius        | :heavy_check_mark:     | 7
 
 
 ### Gruppe 5
