@@ -3,7 +3,8 @@ package ha11;
 import java.util.HashMap;
 
 /**
- * Algo Gruppe 5 HA 11
+ * Algo Gruppe 5
+ * HA 11
  */
 public class Wortsuche {
     public final String text;
@@ -14,7 +15,6 @@ public class Wortsuche {
 
     /**
      * Hier wird die Last-Tabelle erstellt.
-     *
      * @param pattern Suchpattern
      * @return Last-Tabelle
      */
@@ -26,21 +26,10 @@ public class Wortsuche {
         return ret;
     }
 
-    public static void main(String[] args) {
-        Wortsuche meinWort = new Wortsuche("DieguteBabanane123Lecker");
-        int ergebnis = meinWort.findFirst("banane123");
-        if (ergebnis == -1) {
-            System.out.println("Pattern wurde nicht gefunden.");
-        } else {
-            System.out.println("Gefunden an Position " + ergebnis);
-        }
-    }
-
     /**
      * Hier wird geprüft, ob der Text an der angegebenen Stelle dem Pattern gleicht
-     *
      * @param pattern Das Pattern
-     * @param pos     Die Position
+     * @param pos Die Position
      * @return Gleich?
      */
 
@@ -52,7 +41,6 @@ public class Wortsuche {
 
     /**
      * Sooo, hier wird dann auch mal wirklich was gesucht...
-     *
      * @param pattern Das Suchpattern
      * @return Wo gibt es das Pattern?
      */
@@ -76,5 +64,15 @@ public class Wortsuche {
         }
         // ... und schließlich, wenn das Pattern nicht im Text ist, dem User eine -1 vor den Latz knallen.
         return -1;
+    }
+
+    public static void main(String[] args) {
+        Wortsuche meinWort = new Wortsuche("DieguteBabanane123Lecker");
+        int ergebnis = meinWort.findFirst("banane123");
+        if (ergebnis == -1) {
+            System.out.println("Pattern wurde nicht gefunden.");
+        } else {
+            System.out.println("Gefunden an Position " + ergebnis);
+        }
     }
 }
