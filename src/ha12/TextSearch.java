@@ -7,6 +7,9 @@ import java.util.regex.PatternSyntaxException;
 
 public class TextSearch {
 
+	/**
+	 * Testet die Methode textSearch.
+	 */
 	public static void main(String[] args) {
 		System.out.println(textSearch("abcabcdababdc.", "ab")); // 0, 3, 7, 9
 		System.out.println(textSearch("abcabcdababdc.", "c.")); // 2, 5, 12
@@ -17,8 +20,19 @@ public class TextSearch {
 		System.out.println(textSearch("a[aababa][ab]a", "a.\\[a")); // 7
 	}
 
+	/**
+	 * Gibt eine Liste mit allen Start-Indices von matches zurueck.
+	 * 
+	 * Dabei werden die Sonderflälle '[]', '.' und '\\' beachtet.
+	 * 
+	 * @param text
+	 *            -Der Text
+	 * @param pattern-
+	 *            Das Pattern
+	 * @return ArrayList - Indices
+	 */
 	public static ArrayList<Integer> textSearch(String text, String pattern) {
-		ArrayList<Integer> indexes = new ArrayList<Integer>();
+		ArrayList<Integer> indices = new ArrayList<Integer>();
 		for (int i = 0; i < text.length(); i++) {
 			boolean match = true;
 			int skippedChars = 0;
@@ -68,10 +82,10 @@ public class TextSearch {
 				}
 			}
 			if (match) {
-				indexes.add(i);
+				indices.add(i);
 			}
 		}
-		return indexes;
+		return indices;
 	}
 
 }
