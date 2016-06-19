@@ -23,8 +23,10 @@ Der Gewinner bekommt am Ende des Semesters einen Kasten Bier!
 | 7   | Niklas        | :heavy_check_mark:     | 6
 | 8   | Marius        | :heavy_check_mark:     | 7
 | 9   | Dimi          | :heavy_check_mark:     | 6
-| 10  | Niklas        | :heavy_check_mark:     | ?
-| 11  | Marius        | :heavy_check_mark:     | ?
+| 10  | Niklas        | :heavy_check_mark:     | 7
+| 11  | Marius        | :heavy_check_mark:     | 7
+| 12  | Dimi          | :heavy_check_mark:     | ?
+| 13  | Niklas        | :heavy_check_mark:     | ?
 
 
 ### Gruppe 5
